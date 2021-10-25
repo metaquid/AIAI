@@ -2,7 +2,7 @@
 Artificial Intelligence Accessible Interface
 
 ## Inspiration
-Make an interface for an AI more accessible to make it more inclusive.
+Make an interface for an AI more accessible to make it more inclusive. The most widespread form of disability is the linguistic one. With this interface I intend to make an AI accessible with all the languages that a user can know. By simply setting the language to be translated in the browser, you can communicate with the AI with the desired language.
 
 ## What it does
 It can communicate in any selected language, adapting to the user.
