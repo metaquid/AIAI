@@ -39,3 +39,6 @@ I've learned that making a system more accessible makes it more powerful and sop
 
 ## What's next for AIAI - Artificial Intelligence Accessible Interface
 Debugging is still in progress and some things need to be adjusted. 
+
+## TEST
+Try on website: www.metaquid.com/chatbot-en
